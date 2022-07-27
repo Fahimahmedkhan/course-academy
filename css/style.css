@@ -3,5 +3,30 @@
 
 /* Common Styles */
 body{
+    padding: 0;
+    margin: 50px 0 0;
     font-family: 'Poppins', sans-serif;
+}
+
+header nav{
+    margin: 0 140px;
+    height: 40px;
+    border: 5px solid blue;
+    margin-bottom: 48px;
+}
+.slider{
+    margin: 0 140px;
+    height: 500px;
+    border: 5px solid red;
+    margin-bottom: 130px;
+}
+main{
+    margin: 0 140px;
+    height: 1900px;
+    border: 5px solid green;
+    margin-bottom: 130px;
+}
+footer{
+    height: 300px;
+    border: 5px solid black;
 }
