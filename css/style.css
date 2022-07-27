@@ -28,5 +28,11 @@ main{
 }
 footer{
     height: 300px;
-    border: 5px solid black;
+}
+.social{
+    color: white;
+    margin: 10px;
+}
+.social:hover{
+    color: orange;
 }
