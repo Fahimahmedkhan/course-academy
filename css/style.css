@@ -24,6 +24,9 @@ main{
 .register{
     color: #289BDE;
 }
+#successfull{
+    margin-top: 200px;
+}
 .prev-icon{
     background-color: #289BDE;
 }
