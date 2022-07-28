@@ -1,44 +1,47 @@
 /* Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 /* Common Styles */
-body{
-    font-family: 'Poppins', sans-serif;
+body {
+  font-family: "Poppins", sans-serif;
 }
-.custom-nav-link:hover{
-    color: orange;
+.custom-nav-link:hover {
+  color: orange;
 }
-.image-filter{
-    filter: brightness(50%);
+.image-filter {
+  filter: brightness(50%);
 }
-.course-img{
-    height: 200px;
+.bg-color {
+  background-color: #e9ecef;
 }
-.price{
-    font-size: large;
-    font-weight: 800;
-    color: #289BDE;
+.course-img {
+  height: 200px;
 }
-.ready-section{
-    background-color: #289BDE;
+.price {
+  font-size: large;
+  font-weight: 800;
+  color: #289bde;
 }
-.register{
-    color: #289BDE;
+.ready-section {
+  background-color: #289bde;
 }
-#successfull{
-    margin-top: 200px;
+.register {
+  color: #289bde;
 }
-.prev-icon{
-    background-color: #289BDE;
+#successfull {
+  margin-top: 200px;
 }
-.next-icon{
-    background-color: rgb(4, 4, 80);
+.prev-icon {
+  background-color: #289bde;
+}
+.next-icon {
+  background-color: rgb(4, 4, 80);
 }
 
-.social{
-    color: white;
-    margin: 10px;
+.social {
+  color: white;
+  margin: 10px;
 }
-.social:hover{
-    color: orange;
+.social:hover {
+  color: orange;
 }
