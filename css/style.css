@@ -10,6 +10,9 @@ body{
 main{
     margin-bottom: 130px;
 }
+.custom-nav-link:hover{
+    color: orange;
+}
 .course-img{
     height: 200px;
 }
