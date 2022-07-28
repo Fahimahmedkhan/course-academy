@@ -7,22 +7,7 @@ body{
     margin: 50px 0 0;
     font-family: 'Poppins', sans-serif;
 }
-header nav{
-    margin-left: 140px;
-    margin-right: 140px;
-    height: 40px;
-    margin-bottom: 50px;
-    border: 5px solid red;
-}
-.slider{
-    margin: 0 140px;
-    height: 500px;
-    border: 5px solid red;
-    margin-bottom: 130px;
-}
 main{
-    margin: 0 140px;
-    border: 5px solid green;
     margin-bottom: 130px;
 }
 .course-img{
@@ -31,10 +16,13 @@ main{
 .price{
     font-size: large;
     font-weight: 800;
-    color: blue;
+    color: #289BDE;
 }
-footer{
-    height: 300px;
+.ready-section{
+    background-color: #289BDE;
+}
+.register{
+    color: #289BDE;
 }
 .social{
     color: white;
