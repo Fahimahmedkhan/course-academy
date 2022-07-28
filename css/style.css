@@ -3,15 +3,13 @@
 
 /* Common Styles */
 body{
-    padding: 0;
-    margin: 50px 0 0;
     font-family: 'Poppins', sans-serif;
-}
-main{
-    margin-bottom: 130px;
 }
 .custom-nav-link:hover{
     color: orange;
+}
+.image-filter{
+    filter: brightness(50%);
 }
 .course-img{
     height: 200px;
