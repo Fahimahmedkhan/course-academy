@@ -24,6 +24,13 @@ main{
 .register{
     color: #289BDE;
 }
+.prev-icon{
+    background-color: #289BDE;
+}
+.next-icon{
+    background-color: rgb(4, 4, 80);
+}
+
 .social{
     color: white;
     margin: 10px;
